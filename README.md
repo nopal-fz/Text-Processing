@@ -16,8 +16,8 @@ Proses preprocessing data bertujuan untuk membersihkan teks ulasan sebelum digun
 - Cleaning: Menghapus tanda baca, angka, dan karakter khusus yang tidak diperlukan.
 - Emoji Removal: Menghapus emoji yang mungkin tidak relevan dalam analisis teks.
 - Emoticon Removal: Menghapus emoticon seperti ":)" atau ":(" dari teks ulasan.
-- Normalization: Menormalkan kata-kata tidak baku menjadi kata baku (misalnya, "gpp" menjadi "tidak apa-apa").
 - Tokenisasi: Memecah teks menjadi token (kata-kata individu) agar bisa dianalisis lebih lanjut.
+- Normalization: Menormalkan kata-kata tidak baku menjadi kata baku (misalnya, "gpp" menjadi "tidak apa-apa").
 - Stopword Removal: Menghapus kata-kata umum yang tidak memiliki makna signifikan, seperti "dan", "di", atau "yang".
 - Removal of Frequent Words: Menghapus kata-kata yang sangat sering muncul namun tidak memberikan kontribusi signifikan dalam membedakan sentimen.
 - Stemming: Mengubah kata-kata menjadi bentuk dasar mereka (misalnya, "berjalan" menjadi "jalan").
